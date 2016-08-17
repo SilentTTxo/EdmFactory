@@ -1,0 +1,311 @@
+{
+	"Base":"
+	<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+
+<head>
+	<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+	<title></title>
+</head>
+
+<body style='margin: 0 auto; padding: 0; font-size: 14px; font-family: Arial, Helvetica, sans-serif;'>
+	<style>
+			.nav a {
+				color: #000;
+				font-size: 16px;
+				font-family: 'arial', Arial;
+				text-decoration: none;
+			
+			
+			.nav a:hover {
+				color: #fd3600;
+			}
+			.shop {
+				cursor: pointer;
+				width: 95px;
+    			height: 24px;
+    			background-color: rgba(51, 51, 51, 0);
+    			border-color: rgba(51, 51, 51, 0);''
+			}
+			.c1 {
+				padding-left: 24px;
+				padding-right: 28px;
+			}
+			.c2 {
+				padding-left: 192px;
+    			padding-right: 11px;
+			}
+			.c3 {
+				padding-left: 418px;
+			}
+			.c4 {
+				padding-left: 86px;
+			}
+		</style>
+	<table width='600' border='0' cellspacing='0' cellpadding='0' style='margin:0 auto;'>
+	<!-- Header -->
+		<tr>
+			<td>
+				<table width='600' border='0' cellspacing='0' cellpadding='0'>
+					<tr>
+						<td style=' font-family:arial; font-size:14px;color:#a2a09e;height:31px;text-align:center'>
+							100% fit + high quality. |
+							<a href='{$WEBLINK}' title='View in Browser' style='color:#a2a09e; text-decoration:underline;'>View in Browser</a>
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							<table width='600' border='0' cellspacing='0' cellpadding='0' style='margin-top:10px;'>
+								<tr>
+									<td>
+										<a href='http://www.tvc-mall.com/?utm_source=groupa&utm_medium=edm&utm_campaign=20160815-en' title='TVC-Mall'>
+											<img src='http://edm.img.tvc-mall.com/160729/logo.png' alt='TVC-Mall'  style='border:0;margin-bottom: 7px;' title='TVC-Mall' />
+										</a>
+									</td>
+									<td align='right'>
+										<table border='0' cellspacing='0' cellpadding='0'>
+											<tr>
+												<td align='right' style='padding-right: 10px; border-right:1px solid #c1c1c1;'>
+													<img src='http://edm.img.tvc-mall.com/160119/24h-fast-reply.jpg' width='106' alt='Fast Reply within a Day' title='24 Hour Fast Reply' />
+												</td>
+												<td align='center' style='padding:0 10px; border-right:1px solid #c1c1c1;'>
+													<img src='http://edm.img.tvc-mall.com/160119/1year-warranty.jpg' width='114' alt='1 Year Warranty' title='1 Year Money Back Warranty' />
+												</td>
+												<td align='center' style='padding:0 5px 5px 10px;'>
+													<img src='http://edm.img.tvc-mall.com/160119/nowrton-secured.jpg' width='82' alt='Norton Secured' title='Norton Secured' />
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<table width='100%' border='0' cellspacing='0' cellpadding='0' style='background-color:#1c5dbe; margin-top: 10px; font-size:14px'>
+								<tr>
+									<td width='16%' height='40' align='center' style='border-right:1px solid #1c5dbe;'>
+										<a href='http://www.tvc-mall.com/?utm_source=groupa&amp;utm_medium=edm&amp;utm_campaign=20160815-en' title='Home' style='color:#fff; text-decoration:none; font-family:'arial';'>Home</a>
+									</td>
+									<td width='20%' align='center' style='border-right:1px solid #1c5dbe;'>
+										<a href='http://www.tvc-mall.com/Catalog/New?utm_source=groupa&amp;utm_medium=edm&amp;utm_campaign=20160815-en' title='New Arrivals' style='color:#fff; text-decoration:none; font-family:'arial';'>New Arrivals</a>
+									</td>
+									<td width='20%' align='center' style='border-right:1px solid #1c5dbe;'>
+										<a href='http://www.tvc-mall.com/Catalog/BestDeals?utm_source=groupa&amp;utm_medium=edm&amp;utm_campaign=20160815-en' title='Bestselling' style='color:#fff; text-decoration:none; font-family:'arial';'>Bestselling</a>
+									</td>
+									<td width='20%' align='center' style='border-right:1px solid #1c5dbe;'>
+										<a href='http://www.tvc-mall.com/stock-clearance/?utm_source=groupa&amp;utm_medium=edm&amp;utm_campaign=20160815-en' title='Stock Clearance' style='color:#fff; text-decoration:none; font-family:'arial';'>Stock Clearance</a>
+									</td>
+									<td width='20%' align='center'>
+										<a href='http://www.tvc-mall.com/under-0.49?utm_source=groupa&amp;utm_medium=edm&amp;utm_campaign=20160815-en' title='Under $0.49' style='color:#fff; text-decoration:none; font-family:'arial';'>Under $0.49</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	<!-- Header End -->
+		<tr>
+			<td>
+				<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+					<tbody>
+						<!--Content-->
+						<tr>
+                            <td>
+								<table width='600' border='0' cellspacing='0' cellpadding='0' style='margin:0 auto;'>
+								
+								{{Content}}
+								
+								</table>
+							</td>
+						</tr>
+						<!--Content End-->
+
+						<!--Footer -->
+						<tr>
+							<td>
+								<table width='600' border='0 ' cellspacing='0 ' cellpadding='0 ' style='margin:auto;margin-top:0px;font-size:15px; font-family:arial; '>
+									<tr>
+										<td align='center' style='padding:10px 0 10px 0; background-color:#f1f1f1; color:#000000 '>
+											<a href='http://www.tvc-mall.com/?utm_source=groupa&amp;utm_medium=edm&amp;utm_campaign=20160815-en' title='TVC-Mall ' style='color:#000000; text-decoration:none; margin-right:10px; font-size:14px;font-family:arial'>TVC-Mall</a>
+											|
+											<a href='http://www.tvc-mall.com/HelpCenter/Service/PrivacyPolicy.shtml?utm_source=groupa&amp;utm_medium=edm&amp;utm_campaign=20160815-en' title='Privacy Policy ' style='color:#000000; text-decoration:none; margin:0
+                            10px;font-size:14px;font-family:arial
+                            '>Privacy Policy</a>
+											|
+											<a href='http://www.tvc-mall.com/User/Login?utm_source=groupa&amp;utm_medium=edm&amp;utm_campaign=20160815-en' title='Your Account ' style='color:#000000; text-decoration:none; margin:0
+                            10px;font-size:14px;font-family:arial
+                            '>Your Account</a>
+											|
+											<a href='http://www.tvc-mall.com/HelpCenter/Service/WarrantyReturnPolicy.shtml?utm_source=groupa&amp;utm_medium=edm&amp;utm_campaign=20160815-en' title='Return Policy ' style='color:#000000; text-decoration:none; margin:0
+                            10px;font-size:14px;font-family:arial
+                            '>Return Policy</a>
+											|
+											<a href='http://www.tvc-mall.com/HelpCenter/Support/discountscoupons.shtml?utm_source=groupa&amp;utm_medium=edm&amp;utm_campaign=20160815-en' title='More Coupons ' style='color:#000000; text-decoration:none; margin:0
+                            10px;font-size:14px;font-family:arial '>More Coupons</a>
+										</td>
+									</tr>
+									<tr>
+										<td align='center' style='color:#000000; line-height:18px; background-color:#f1f1f1;
+                            padding-bottom:10px; '>
+											<a href='http://www.facebook.com/TVCMALLLTD/?utm_source=groupa&amp;utm_medium=edm&amp;utm_campaign=20160815-en' title='Facebook ' style='color:#000000; text-decoration:none; margin:0 6px;font-family:arial '>Facebook</a>
+											|
+											<a href='http://twitter.com/tvcmall_com/?utm_source=groupa&amp;utm_medium=edm&amp;utm_campaign=20160815-en' style='color:#000000; text-decoration:none; margin:0 6px;font-family:arial ' title='Twitter '>Twitter</a>
+											|
+											<a href='http://www.youtube.com/user/tvcmall/?utm_source=groupa&amp;utm_medium=edm&amp;utm_campaign=20160815-en' style='color:#000000; text-decoration:none; margin:0 6px;font-family:arial ' title='Youtube '>Youtube</a>
+											|
+											<a href='http://pinterest.com/tvcmall/?utm_source=groupa&amp;utm_medium=edm&amp;utm_campaign=20160815-en' style='color:#000000; text-decoration:none; margin:0 6px;font-family:arial' title='Pinterest '>Pinterest</a>
+										</td>
+									</tr>
+									<tr>
+										<td align='center' style='color: #000000; line-height: 18px; background-color: #DFDFDF; '>
+											<table width='100% ' style='border-top:1px solid #fff; '>
+												<tr>
+													<td width='20% ' style='width:16%;vertical-align:top;text-align:left;padding-left:20px; '>
+														<p style='font-size: 24px; font-weight: bold; color: #F2B90A; font-family: arial'>Explore</p>
+														<p style='font-size: 24px; font-weight: bold; color: #F2B90A; font-family: arial'>More:</p>
+													</td>
+													<td width='23% ' style='width:20%;vertical-align:top; '>
+														<p>
+															<a href='https://www.tvc-mall.com/types/?utm_source=groupa&utm_medium=edm&utm_campaign=20160815-en' title='Mobile Accessories ' style='font-size:13px;color:#000000;font-family:arial;text-decoration:none; '>Mobile Accessories</a>
+														</p>
+														<p>
+															<a href='https://www.tvc-mall.com/c/cell-phone-parts-c114231/?utm_source=groupa&utm_medium=edm&utm_campaign=20160815-en' title='Cell Phone Parts ' style='font-size:13px;color:#000000;font-family:arial; text-decoration:none; '>Cell Phone Parts</a>
+														</p>
+														<p>
+															<a href='https://www.tvc-mall.com/c/consumer-electronics-c2552/?utm_source=groupa&utm_medium=edm&utm_campaign=20160815-en' title='Consumer Electronics ' style='font-size:13px;color:#000000;font-family:arial; text-decoration:none; '>Consumer Electronics</a>
+														</p>
+													</td>
+													<td width='28% ' style='width:20%;vertical-align:top '>
+														<p>
+															<a href='https://www.tvc-mall.com/c/phones-tablets-c2547/?utm_source=groupa&utm_medium=edm&utm_campaign=20160815-en' title='Phones & Tablets ' style='font-size:13px;color:#000000;font-family:arial; text-decoration:none; '>Phones & Tablets</a>
+														</p>
+														<p>
+															<a href='https://www.tvc-mall.com/c/sports-outdoors-c79705/?utm_source=groupa&utm_medium=edm&utm_campaign=20160815-en' title='Sports & Outdoors ' style='font-size:13px;color:#000000;font-family:arial; text-decoration:none; '>Sports & Outdoors</a>
+														</p>
+														<p>
+															<a href='https://www.tvc-mall.com/c/computer-networking-c2553/?utm_source=groupa&utm_medium=edm&utm_campaign=20160815-en' title='Computer & Networking ' style='font-size:13px;color:#000000;font-family:arial;text-decoration:none '>Computer & Networking</a>
+														</p>
+													</td>
+													<td width='19% ' style='vertical-align:top '>
+														<p>
+															<a href='https://www.tvc-mall.com/c/security-surveillance-c2549/?utm_source=groupa&utm_medium=edm&utm_campaign=20160815-en' title='Security & Surveillance ' style='font-size:13px;color:#000000;font-family:arial; text-decoration:none; '>Security & Surveillance</a>
+														</p>
+														<p>
+															<a href='https://www.tvc-mall.com/c/lights-lighting-c2550/?utm_source=groupa&utm_medium=edm&utm_campaign=20160815-en' title='Lights & Lighting ' style='font-size:13px;color:#000000;font-family:arial; text-decoration:none; '>Lights & Lighting</a>
+														</p>
+														<p>
+															<a href='https://www.tvc-mall.com/c/gopro-accessories-c2554/?utm_source=groupa&utm_medium=edm&utm_campaign=20160815-en' title='GoPro Accessories ' style='font-size:13px;color:#000000;font-family:arial; text-decoration:none; '>GoPro Accessories</a>
+														</p>
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<table width='100%' border='0' cellspacing='0 ' cellpadding='0 ' style='font-family:'arial'; font-size:12px; '>
+									<tr>
+										<td align='center' style='margin:auto;color:#a2a09e; line-height: 18px; padding-top:10px;font-family:arial '>
+											Please add
+											<a href='mailto:tvc-mall@edm.tvc-mall.com ' title='tvc-mall@edm.tvc-mall.com ' style='text-decoration: underline; color: #1D5DBF'>tvc-mall@edm.tvc-mall.com</a>
+											to your address book to keep updated with the latest news and offers.
+											<br />
+											*Campaigns may be subject to price changes, printing errors, delivery delays,
+											<br />
+											inadquate stocks and other changes.
+											<br />
+										</td>
+									</tr>
+
+									<tr>
+										<td align='center' style='color:#a2a09e; line-height:18px; font-family:arial '>
+											You received this message because you've registered at TVC-Mall
+											<br />
+											or opted-in to promotional communications, or you've made a purchase from TVC-Mall.
+											<br />
+											And your privacy is very important to us.
+											<br />
+											If becoming our promotion knower isn't your thing, you can simply
+											<a href='{$PLUGINLINK=unsubscribe} ' title='unsubscribe ' style='text-decoration:underline;color:#1D5DBF'>unsubscribe</a>
+											.
+											<br />
+											We'll miss you terribly, though.
+										</td>
+									</tr>
+
+									<tr>
+										<td align='center' style='padding: 2px 0 10px 0; line-height: 18px; color:#a2a09e; font-family: 'arial';'>
+											<a href='mailto:sales@tvc-mall.com' title='Email Us Your Question ' style='text-decoration: underline; color:#1D5DBF'>Email Us Anytime</a>
+											<br />
+											Tel: +86 (0)755 2841 6521 (9:30–18:30, Mon. to Fri., GMT+8)
+											<br />
+											Guangyayuan Industrial Park, Bantian Ave, Shenzhen, CN 518000
+											<br />
+											Copyright © 2008 <em>–</em>
+											2016. Shenzhen TVC-TECH Limited. All Rights Reserved.
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<!--Footer End -->
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</table>
+</body>
+
+</html>
+	",
+	"row1":"<tr>
+								<td><a href='#'><img style='margin-top:10px' src='./img/{0}'/></a></td>
+							</tr>",
+	"row2":"<tr>
+								<td>
+									<table width='600' border='0' cellspacing='0' cellpadding='0'>
+										<tr>
+											<td>
+												<a href='#'><img src='./img/{0}' style='margin-top:10px;'/></a>
+											</td>
+											<td>
+												<a href='#'><img src='./img/{1}' style='margin-top:10px;margin-left: {2}px;'/></a>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>",
+	"row3":"<tr>
+								<td>
+									<table width='600' border='0' cellspacing='0' cellpadding='0'>
+										<tr>
+											<td>
+												<a href='#'><img src='./img/{0}' style='margin-top:10px;'/></a>
+											</td>
+											<td>
+												<a href='#'><img src='./img/{1}' style='margin-top:10px;margin-left: {3}px;'/></a>
+											</td>
+											<td>
+												<a href='#'><img src='./img/{2}' style='margin-top:10px;margin-left: {3}px;'/></a>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>",
+	"row4":"<tr>
+								<td>
+								<a href='#'><img src='./img/{0}' style='margin-top:10px;'/></a>
+								<a href='#'><img src='./img/{1}' style='margin-top:10px;margin-left: {4}px;'/></a>
+								<a href='#'><img src='./img/{2}' style='margin-top:10px;margin-left: {4}px;'/></a>
+								<a href='#'><img src='./img/{3}' style='margin-top:10px;margin-left: {4}px;'/></a>
+								</td>
+							</tr>"
+}

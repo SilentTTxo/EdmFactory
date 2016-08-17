@@ -1,0 +1,10 @@
+c:\users\tt\documents\visual studio 2015\Projects\EDM\EDM\bin\Debug\EDM.exe.config
+c:\users\tt\documents\visual studio 2015\Projects\EDM\EDM\bin\Debug\EDM.exe
+c:\users\tt\documents\visual studio 2015\Projects\EDM\EDM\bin\Debug\EDM.pdb
+c:\users\tt\documents\visual studio 2015\Projects\EDM\EDM\obj\Debug\EDM.csprojResolveAssemblyReference.cache
+c:\users\tt\documents\visual studio 2015\Projects\EDM\EDM\obj\Debug\EDM.exe
+c:\users\tt\documents\visual studio 2015\Projects\EDM\EDM\obj\Debug\EDM.pdb
+c:\users\tt\documents\visual studio 2015\Projects\EDM\EDM\bin\Debug\EDM.exe.manifest
+c:\users\tt\documents\visual studio 2015\Projects\EDM\EDM\bin\Debug\EDM.application
+c:\users\tt\documents\visual studio 2015\Projects\EDM\EDM\obj\Debug\EDM.exe.manifest
+c:\users\tt\documents\visual studio 2015\Projects\EDM\EDM\obj\Debug\EDM.application
